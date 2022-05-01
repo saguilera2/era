@@ -1,14 +1,3 @@
-/**
- * Objective: Chapter 20 Lists, Stacks, Queues, and Priority Queues
- * Algorithm: Continuing JavaFX we are implementing getChildrend
- * to OvservalbeList<Node> to have multiple nodes in the pane.
- * Input and Output: Display window should have multiple color
- * bouncing balls with 2 button to add or subtract and a
- * scroll bar to adjust the speed
- * Created by: Sebastian Aguilera
- * Date: 5/1/22
- * Version: Eclipse IDE
- **/
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
